@@ -4,6 +4,12 @@
   xUrl: "https://x.com/Snowflake"
   linkedInUrl: "https://www.linkedin.com/in/XXXXX"
 
+- name: 安倍 航太
+  affiliation: 株式会社BeeX
+  photo: ../../images/neighbors/abe_kota.png
+  xUrl: "https://x.com/_coco_se"
+  linkedInUrl: "https://www.linkedin.com/in/kota-abe-220010398"
+
 - name: Daisuke Onoe
   affiliation: ー
   photo: ../../images/neighbors/daisuke_onoe.png
@@ -14,6 +20,7 @@
   photo: ../../images/neighbors/kayamamoto.png
   xUrl: "https://x.com/kayamamoto_"
   linkedInUrl: "https://www.linkedin.com/in/katsuaki-yamamoto-2b3692329"
+
 
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
