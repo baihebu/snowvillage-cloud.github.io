@@ -26,6 +26,12 @@
   xUrl: "https://x.com/kayamamoto_"
   linkedInUrl: "https://www.linkedin.com/in/katsuaki-yamamoto-2b3692329"
 
+- name: Tatchan
+  affiliation: AI Data Cloud
+  photo: ../../images/neighbors/tatchan.png
+  xUrl: "https://x.com/tad_ao"
+  linkedInUrl: "https://www.linkedin.com/in/tadashi-aobayashi-a93790126/"
+
 - name: Kaori Nishimura
   affiliation: 株式会社メソドロジック
   photo: ../../images/neighbors/nishimurakaori.png
@@ -52,8 +58,6 @@
   photo: ../../images/neighbors/
   xUrl: "https://x.com/elc_small"
   linkedInUrl: "https://www.linkedin.com/in/yo-morikawa-68787234a"
-
-
 
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
